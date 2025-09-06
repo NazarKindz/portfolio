@@ -46,4 +46,3 @@ Pizza ordering web application (in development 🚧).
 ## 📫 Contact
 - GitHub: [@nazarkindz](https://github.com/nazarkindz)  
 - Email: nazarchok5@gmail.com
-- LinkedIn: *(optional, якщо маєш)*  
