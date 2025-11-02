@@ -29,7 +29,7 @@ Landing page for a balcony design service.
 
 ---
 
-### 🔹 [PizzaPal](https://nazarkindz.github.io/pizza-pal/)
+### 🔹 [PizzaPal](https://nazarkindz.github.io/pizzaPal/)
 Pizza ordering web application (in development 🚧).  
 - **Tech stack:** React, JavaScript, SCSS, React Router  
 - **Features:**  
